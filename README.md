@@ -1,7 +1,7 @@
 # Mobile Robotics (Monsoon 2024) @ IIITH
 A repository to store all items pertaining to course `Mobile Robotics`
 
-- Professor: [K. Madhava Krishna](https://www.iiit.ac.in/people/faculty/mkrishna/)
+- Professor: [K. Madhava Krishna](https://faculty.iiit.ac.in/~mkrishna/)
 
 ## Table of contents
 
