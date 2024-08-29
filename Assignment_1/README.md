@@ -8,6 +8,7 @@ Team member information
 | :--- | :--- |
 | Sarthak Mishra | 2023701027 |
 | Saksham Ujjawal | 2024702013 |
+| Rohit Pawar | 2024701025 |
 | Soham Patil | 2024701005 |
 
 ## Python environment
