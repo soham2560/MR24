@@ -19,4 +19,7 @@ The anaconda environment used to run this notebook can be created using [environ
 ```
 It is suggested that you use VSCode to run the cells, but they should work using standard jupyter notebook also.
 
-### Note: Do not forget to run the first 2 cells before you run any tasks (`prepare_data()`), it will download all additional point clouds and datasets required for the tasks.
+### Note: 
+- Do not forget to run the first 2 cells before you run any tasks (`prepare_data()`), it will download all additional point clouds and datasets required for the tasks.
+- Recommended to do `Run All` once at beginning
+- Press `Esc` to start and exit animations
