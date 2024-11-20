@@ -19,5 +19,7 @@ The assignments given out (for the course) are summarized in the table below
 | Assignment | Description |
 | :---- | :---- |
 | [Assignment 1](./Assignment_1/README.md) | Transformations and representations, basic Open3D, quaternions, euler angles, etc. |
+| [Assignment 2](./Assignment_2/README.md) |  ICP with SVD, ICP with Lie, PGO using G2O                                         |
+| [Assignment 3](./Assignment_3/README.md) | Camera Extrinsics Calibration with Ceres, Two View Geometry                        |
 
 Note: The README's in this repository are inspired by [this](https://github.com/TheProjectsGuy/MR21-CS7.503)
