@@ -6,7 +6,7 @@ Team member information
 
 | Name | Roll No. |
 | :--- | :--- |
-| Saksham Ujjawal | 2024702013 |
+| Samaksh Ujjawal | 2024702013 |
 | Soham Patil | 2024701005 |
 
 ## Python environment
